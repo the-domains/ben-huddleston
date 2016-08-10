@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ben Huddleston]]></title>
+        <description><![CDATA[Ben Huddleston]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 20:35:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['da Bomb]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcdeb3df-f9e2-4a05-84ed-2fa3c7d93eb6.jpg">]]></description>
+            <link>undefinedda-bomb/index.html</link>
+            <guid isPermaLink="false">f5aa26d9-0212-4581-b325-62b9bbd7af45</guid>
+            <pubDate>Wed, 10 Aug 2016 20:35:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
