@@ -1,0 +1,28 @@
+name: Ben Huddleston
+favicon: null
+layout_spectrum: 0.1451936352532357
+typography_spectrum: 0.9665032320190221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8852829628158361
+  lightness: 0.6689405092038214
+  saturation: 0.05241519561968744
+  rhythmicContrast: 0.20738924178294837
+purpose: []
